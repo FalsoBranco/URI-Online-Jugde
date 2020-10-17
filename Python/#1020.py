@@ -1,8 +1,7 @@
-idade = 800
 
-ano = idade // 360
-mes = (idade % 360) // 30
-dia = idade % 395
-print(ano, "ano (s)")
-print(mes, "mes (es)")
-print(dia, "dia (s)")
+dias = int(input())
+ano = dias // 365
+mes = dias % 365 // 30
+dia = dias % 365 % 30
+
+print("{:.0f} ano(s)\n{:.0f} mes(es)\n{:.0f} dia(s)".format(ano, mes, dia))
