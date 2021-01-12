@@ -1,5 +1,5 @@
 # Uri Online Judge
 
 
-TODO
-Python\Iniciante\#1096.py
+Repositorio trocado
+[Novo](https://github.com/FalsoBranco/Exercicios-Programacao)
